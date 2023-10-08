@@ -1,2 +1,2 @@
 # NinjaPlatformer
-The OG project in Unity
+My first ever project in Unity.
