@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menues/Menu.unity
+    guid: 4d20798d05c696043a6eb5de35be03b2
+  - enabled: 1
+    path: Assets/Scenes/Maps/Hakatashi.unity
+    guid: 6c193be3da7ba7043b141829ba43c51b
+  - enabled: 1
+    path: Assets/Scenes/Levels/RunAway/Level 1.unity
+    guid: 3a0111b525452ad469c2ed0cdf08797c
+  - enabled: 1
+    path: Assets/Scenes/Levels/RunAway/Level 2.unity
+    guid: 26010f251eee8394994f9e072db3a54d
+  - enabled: 1
+    path: Assets/Scenes/Levels/RunAway/Level 3.unity
+    guid: 75bbdecc7d2f40540b8fd049cf27adf3
+  - enabled: 1
+    path: Assets/Scenes/Levels/RunAway/Level 4.unity
+    guid: 94f355fb61afcb4408018554dd48cfae
+  - enabled: 1
+    path: Assets/Scenes/Levels/RunAway/Level 5.unity
+    guid: 3e6bd34b0877be24a9088ccc7356b950
+  - enabled: 1
+    path: Assets/Scenes/Levels/RunAway/Level 6.unity
+    guid: 76401ca5e0dd60e4a996fe90e5b6c174
+  m_configObjects: {}
